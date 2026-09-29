@@ -1,13 +1,3 @@
-# Calculadora de Média
-calculadora em python
-
-***
-
-### Teconologia Utilizadas
-> Python v3.13.9
-
-####  Codigo Utilizado
-```
 def calcular_media(nota1, nota2):
     return (nota1 + nota2) / 2
 
@@ -21,4 +11,4 @@ if media >= 7.0:
     print("Status: APROVADO!")
 else:
     print("Status: REPROVADO. ")
-    .
+    
